@@ -3,15 +3,15 @@ const router = express.Router();
 const Workout = require("../models/Workout");
 
 //Creating new Workout
-router.post("api/workouts", (req, res) => {
-    Workout.create(req.body)
-    .then((dbWorkout) => {
-        res.json(dbWorkout);
-    })
-    .catch((err) => {
-        res.json(err);
-    });
-});
+// router.post("api/workouts", (req, res) => {
+//     Workout.create(req.body)
+//     .then((dbWorkout) => {
+//         res.json(dbWorkout);
+//     })
+//     .catch((err) => {
+//         res.json(err);
+//     });
+// });
 
 //Update Workout 
 router.put("/api/workouts/:id", (req, res) => {
