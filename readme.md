@@ -3,7 +3,7 @@
 
   ## Description
   
-  This project allows you to view create and track daily workouts. You can log multiple exercises in a workout on a given day. It can track the name, type, weight, sets, and duration. If the exercise is a cardio exercise, distance traveled will be tracked. 
+  This project allows you to view create and track daily workouts. You can log multiple exercises in a workout on a given day. It can track the name, type, weight, sets, and duration. If the exercise is a cardio exercise, distance traveled will be tracked. As of now, it is still a work in progess, there is some connection issues between Mongodb and Heroku making deployment difficult and adding new exercises is not currently working. These are changes I will be making the future.
   
   ## Table of Contents
   
