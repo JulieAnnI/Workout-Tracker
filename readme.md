@@ -23,7 +23,7 @@
   
   The use of this app to help a cosumer reach their fitness goals more quickly, as this is easier to do when they track their workout progress.
 
-  ![image1](/images/image 1.png) 
+  ![image1](/images/image1.png) 
   ![image2](/images/image2.png)
   
   ## Credits
